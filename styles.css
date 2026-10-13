@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --beige: #fef4e0;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tarjeta{
+    background-color: var(--beige);
+    border-radius: 8px;
+    width: 600px;
+    height: 400px;
+}
+
+
+
+
+
+
